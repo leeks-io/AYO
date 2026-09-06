@@ -1,0 +1,6 @@
+{
+  "name": "Ayò Àṣẹ",
+  "description": "An authentic West African Ayò board game of divination and strategy, featuring Ifá proverb commentary, trickster AI opponents, and dynamic end-of-match readings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
